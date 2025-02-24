@@ -2,7 +2,7 @@
   <header>
     <h1>Questifyer.com</h1>
     <p w-39rem>Below are several projects I've been working on. Most are still in progress, although my time to work on them is limited. 
-      Most of these projects have public source code available on <a href="https://github.com/users/MJZwart" target="_blank" text-teal-6>GitHub</a>.</p>
+      Most of these projects have public source code available on <a href="https://github.com/MJZwart" target="_blank" text-teal-6>GitHub</a>.</p>
   </header>
   <div flex flex-col gap-3>
     <div flex flex-row gap-3>
@@ -14,7 +14,7 @@
       <Panel title="In progress" lead="More to come, once it's ready to upload" hover:drop-shadow="[0_0_4rem_crimson]" />
     </div>
   </div>
-  <footer absolute p-4 bottom-0 left-0 right-0><a href="https://github.com/users/MJZwart" target="_blank" text-teal-6>Source on Github.</a> By Mitchell.</footer>
+  <footer absolute p-4 bottom-0 left-0 right-0><a href="https://github.com/MJZwart" target="_blank" text-teal-6>Source on Github.</a> By Mitchell.</footer>
 </template>
 
 <script setup lang="ts">
