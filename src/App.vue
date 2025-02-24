@@ -6,11 +6,11 @@
   </header>
   <div flex flex-col gap-3>
     <div flex flex-row gap-3>
-      <a href="https://questifyer.com"><Panel title="Questifyer" lead="Gamified task lists" hover:drop-shadow="[0_0_4rem_midnightblue]" /></a>
-      <a href="https://questifyer.com"><Panel title="To-do" lead="Easy tracking of to-do lists" hover:drop-shadow="[0_0_4rem_teal]" /></a>
+      <a href="https://task.questifyer.com"><Panel title="Questifyer" lead="Gamified task lists" hover:drop-shadow="[0_0_4rem_midnightblue]" /></a>
+      <a href="https://todo.questifyer.com"><Panel title="To-do" lead="Easy tracking of to-do lists" hover:drop-shadow="[0_0_4rem_teal]" /></a>
     </div>
     <div flex flex-row gap-3>
-      <a href="https://questifyer.com"><Panel title="Torn hitlist" lead="API based hitlist for easier chaining in the PBBG Torn" hover:drop-shadow="[0_0_4rem_#646cffaa]" /></a>
+      <a href="https://torn.questifyer.com"><Panel title="Torn hitlist" lead="API based hitlist for easier chaining in the PBBG Torn" hover:drop-shadow="[0_0_4rem_#646cffaa]" /></a>
       <Panel title="In progress" lead="More to come, once it's ready to upload" hover:drop-shadow="[0_0_4rem_crimson]" />
     </div>
   </div>
